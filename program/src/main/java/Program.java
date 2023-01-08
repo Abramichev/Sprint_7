@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Program {
-}
+public class Program {
+    public boolean checkIsAdult(int age) {
+            return age >= 18;
+        }
+
+
+    }
+
